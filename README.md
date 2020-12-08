@@ -1,6 +1,6 @@
 ### Ciao! 👋
 I'm a 25 years old web developer based in Porto Alegre, southern Brazil. :brazil:<br>
-You can find more about me in my [linkedin profile](https://linkedin.com/in/luiz-brancher).
+You can find more about me in my [LinkedIn profile](https://linkedin.com/in/luiz-brancher).
 
 <br>
 
