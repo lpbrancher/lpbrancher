@@ -1,4 +1,4 @@
-### Ciao! 👋
+## Ciao! 👋
 I'm a 25 years old web developer based in Porto Alegre, southern Brazil. :brazil:<br>
 I mostly work with these technologies:
 
