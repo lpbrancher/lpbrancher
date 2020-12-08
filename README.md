@@ -1,11 +1,14 @@
 ### Ciao! 👋
 I'm a 25 years old web developer based in Porto Alegre, southern Brazil. :brazil:<br>
-You can find more about me in my [LinkedIn profile](https://linkedin.com/in/luiz-brancher).
+I mostly work with these technologies:
 
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+You can find more about me in my [LinkedIn profile](https://linkedin.com/in/luiz-brancher).
 <br>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=criptoluiz&layout=compact)
-  <br><br>
+  <br>
   ![My github stats](https://github-readme-stats.vercel.app/api?username=criptoluiz&show_icons=true&count_private=true&hide=issues&include_all_commits=true&hide_rank=true)
 
 
