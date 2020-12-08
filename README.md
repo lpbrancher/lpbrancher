@@ -2,11 +2,14 @@
 I'm a web developer based in Porto Alegre, southern Brazil.<br>
 You can contact me at my [linkedin](https://linkedin.com/in/luiz-brancher) profile.
 
-<br><hr><br>
+<br>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=criptoluiz&layout=compact)
   <br><br>
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=criptoluiz&show_icons=true&theme=onedark&count_private=true&hide=issues&include_all_commits=true&hide_rank=true)
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=criptoluiz&show_icons=true&count_private=true&hide=issues&include_all_commits=true&hide_rank=true)
+
+
+  
 
 <!--
 **criptoluiz/criptoluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
