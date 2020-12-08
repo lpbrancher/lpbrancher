@@ -1,9 +1,9 @@
 ### Ciao! 👋
 I'm a web developer based in Porto Alegre, southern Brazil.
-You can contact me @ [linkedin](https://linkedin.com/in/luiz-brancher)!
+You can contact me at my [linkedin](https://linkedin.com/in/luiz-brancher) profile. 
 
 <hr>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **criptoluiz/criptoluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
