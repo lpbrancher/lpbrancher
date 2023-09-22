@@ -8,8 +8,8 @@ You can find more about me in my [LinkedIn profile](https://linkedin.com/in/luiz
 <br>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpbrancher&layout=compact)
-  <br>
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=lpbrancher&show_icons=true&count_private=true&hide=issues&include_all_commits=true&hide_rank=true)
+ <!-- <br>
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=lpbrancher&show_icons=true&count_private=true&hide=issues&include_all_commits=true&hide_rank=true) -->
 
 
   
