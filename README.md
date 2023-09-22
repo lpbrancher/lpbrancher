@@ -1,5 +1,5 @@
 ## Ciao! 👋
-I'm a 27 years old web developer based in Porto Alegre, southern Brazil. :brazil:<br>
+I'm a web developer based in Porto Alegre, Brazil. :brazil:<br>
 I mostly work with these technologies:
 
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -8,15 +8,15 @@ I mostly work with these technologies:
 You can find more about me in my [LinkedIn profile](https://linkedin.com/in/luiz-brancher).
 <br>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=criptoluiz&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpbrancher&layout=compact)
   <br>
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=criptoluiz&show_icons=true&count_private=true&hide=issues&include_all_commits=true&hide_rank=true)
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=lpbrancher&show_icons=true&count_private=true&hide=issues&include_all_commits=true&hide_rank=true)
 
 
   
 
 <!--
-**criptoluiz/criptoluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lpbrancher/lpbrancher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
